@@ -1,7 +1,7 @@
 # latihan-git
 QSC Training
 
-Nama saya Budi
+Nama saya Steven
 
 Saya tinggal di Tangerang
 
