@@ -3,6 +3,8 @@ QSC Training
 
 Nama saya Budi
 
-Saya tinggal di Tangerang
+Saya tinggal di Jakarta
 
 Umur saya 17 Tahun
+
+Hobi saya bermain sepak bola
