@@ -1,7 +1,7 @@
 Nama: Bowo 
 Alamat: Duri Kosambi
 
-tes 
+tes 1 
 
 tes untuk rebase 
 
